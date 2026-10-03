@@ -1,0 +1,7 @@
+{
+  "name": "Orange Dark",
+  "base": "dark",
+  "overrides": {
+    "userMessageBackground": "#C2410C"
+  }
+}
